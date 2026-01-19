@@ -7,7 +7,8 @@
 
 ---
 
-## About Me
+## Professional Summary
+
 
 I am a **Full Stack Developer** with hands-on experience in building **scalable, responsive, and production-ready web applications** using the **MERN stack**.  
 My core strengths include clean frontend architecture, REST API integration, and efficient backend development.
