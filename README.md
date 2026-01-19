@@ -24,43 +24,53 @@ My core strengths include clean frontend architecture, REST API integration, and
 
 ## Connect With Me
 
-<a href="https://www.linkedin.com/in/dinesh-l-0a9577261/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" />
-</a>
-<a href="https://medium.com/@dinesh.lakshumanan" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="32" />
-</a>
-<a href="https://www.youtube.com/@dinsdata" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="32" />
-</a>
-<a href="https://leetcode.com/dins_data/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/dinesh-l-0a9577261/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" />
+  </a>
+  <a href="https://medium.com/@dinesh.lakshumanan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="32" />
+  </a>
+  <a href="https://www.youtube.com/@dinsdata" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="32" />
+  </a>
+  <a href="https://leetcode.com/dins_data/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" />
+  </a>
+</p>
 
 ---
 
 ## Tech Stack
 
 ### Frontend
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="32" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="32" />
+</p>
 
 ### Backend
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32" />
+</p>
 
 ### Database
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32" />
+</p>
 
 ### Tools & Platforms
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" />
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="32" />
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="32" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="32" />
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="32" />
+</p>
 
 ---
 
