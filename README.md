@@ -1,89 +1,78 @@
+# Dinesh L  
+### Full Stack Developer (React • Node • Express • MongoDB)
 
-<h1 align="center">Hi 👋, I'm Dinesh L</h1>
-<h3 align="center">Full Stack Developer (MERN) from India</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=dineshlakshmanan2001&label=Profile%20Views&color=2563eb&style=flat)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dineshlakshmanan2001&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dineshlakshmanan2001&theme=onedark&no-frame=true&row=1&column=6" />
-  </a>
-</p>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dineshlakshmanan2001&margin-w=10&no-bg=true)
 
 ---
 
-### 🚀 About Me
-- 💻 Full Stack Developer specializing in **MERN Stack**
-- 🌱 Currently building scalable apps using **React, Node.js, Express & MongoDB**
-- 🧠 Strong foundation in **Frontend Architecture & UI/UX**
-- 👨‍💻 Portfolio: **https://jolly-bavarois-ca241f.netlify.app/**
-- 📫 Reach me at: **dinesh.lakshumanan@gmail.com**
+## About Me
+
+I am a **Full Stack Developer** with practical experience in building **scalable, responsive, and production-ready web applications** using the **MERN stack**.  
+My strengths lie in creating clean frontend architectures, integrating RESTful APIs, and developing efficient backend services.
+
+- Full Stack Development with **React, Node.js, Express & MongoDB**
+- Strong understanding of **modern JavaScript (ES6+)**
+- Experience with **responsive UI and component-based design**
+- Familiar with deployment and version control workflows
+
+**Portfolio:** https://jolly-bavarois-ca241f.netlify.app/  
+**Email:** dinesh.lakshumanan@gmail.com
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/dinesh-l-0a9577261/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@dinesh.lakshumanan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@dinsdata" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/dins_data/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-</p>
+## Connect With Me
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/dinesh-l-0a9577261/)
+[![Medium](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/@dinesh.lakshumanan)
+[![YouTube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/@dinsdata)
+[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/dins_data/)
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
-#### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" />
-</p>
+### Frontend
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg)
 
-#### Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
-</p>
+### Backend
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
+![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg)
 
-#### Database
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-</p>
+### Database
+![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)
 
-#### Tools & Platforms
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" />
-</p>
+### Tools & Platforms
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
+![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
+![Netlify](https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg)
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshlakshmanan2001&show_icons=true&layout=compact" />
-</p>
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshlakshmanan2001&show_icons=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dineshlakshmanan2001&show_icons=true&theme=react)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshlakshmanan2001" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshlakshmanan2001&layout=compact&theme=react)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=dineshlakshmanan2001&theme=react)
+
+---
+
+## Current Focus
+
+- Building MERN stack applications
+- Writing clean and maintainable code
+- Improving backend performance and API design
+- Strengthening problem-solving skills
+
+---
+
+⭐ If you find my work useful, consider starring my repositories.
