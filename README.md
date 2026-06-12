@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dinesh L
+# Hi, I'm Dinesh L
 
 ### Full Stack Developer | MERN Stack Engineer
 
@@ -6,32 +6,32 @@ Building scalable web applications with modern JavaScript technologies, focusing
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate **Full Stack Developer** specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. I enjoy transforming ideas into high-quality, production-ready applications while following modern development practices and clean coding principles.
 
 ### What I Do
 
-* ⚡ Develop scalable full-stack web applications
-* 🎨 Build modern, responsive, and accessible user interfaces
-* 🔗 Design and integrate RESTful APIs
-* 🛠 Create efficient backend architectures
-* 📈 Optimize application performance and user experience
-* 🚀 Deploy and maintain cloud-based applications
+*  Develop scalable full-stack web applications
+*  Build modern, responsive, and accessible user interfaces
+*  Design and integrate RESTful APIs
+*  Create efficient backend architectures
+*  Optimize application performance and user experience
+*  Deploy and maintain cloud-based applications
 
 ---
 
 ## 🌐 Portfolio & Contact
 
-📌 **Portfolio:** https://jolly-bavarois-ca241f.netlify.app/
+ **Portfolio:** https://jolly-bavarois-ca241f.netlify.app/
 
-📧 **Email:** [dinesh.lakshumanan@gmail.com](mailto:dinesh.lakshumanan@gmail.com)
+ **Email:** [dinesh.lakshumanan@gmail.com](mailto:dinesh.lakshumanan@gmail.com)
 
-💼 **Open to:** Full Stack Developer | MERN Stack Developer | React Developer Opportunities
+ **Open to:** Full Stack Developer | MERN Stack Developer | React Developer Opportunities
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend Development
 
