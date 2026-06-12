@@ -1,97 +1,163 @@
-# Dinesh L  
-### Full Stack Developer (React • Node • Express • MongoDB)
+# Hi 👋, I'm Dinesh L
 
-<img src="https://komarev.com/ghpvc/?username=dineshlakshmanan2001&label=Profile%20Views&color=2563eb&style=flat" />
+### Full Stack Developer | MERN Stack Engineer
 
-<img src="https://github-profile-trophy.vercel.app/?username=dineshlakshmanan2001&margin-w=10&no-bg=true" />
-
----
-
-## Professional Summary
-
-
-I am a **Full Stack Developer** with hands-on experience in building **scalable, responsive, and production-ready web applications** using the **MERN stack**.  
-My core strengths include clean frontend architecture, REST API integration, and efficient backend development.
-
-- Full Stack Development with **React, Node.js, Express & MongoDB**
-- Strong knowledge of **modern JavaScript (ES6+)**
-- Experience with **responsive UI and component-based design**
-- Familiar with deployment workflows and version control systems
-
-**Portfolio:** https://jolly-bavarois-ca241f.netlify.app/  
-**Email:** dinesh.lakshumanan@gmail.com
+Building scalable web applications with modern JavaScript technologies, focusing on performance, clean architecture, and exceptional user experiences.
 
 ---
 
-## Connect With Me
+## 🚀 About Me
 
-<p>
-  <a href="https://www.linkedin.com/in/dinesh-l-0a9577261/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" />
-  </a>
-  <a href="https://medium.com/@dinesh.lakshumanan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="32" />
-  </a>
-  <a href="https://www.youtube.com/@dinsdata" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="32" />
-  </a>
-  <a href="https://leetcode.com/dins_data/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" />
-  </a>
-</p>
+I'm a passionate **Full Stack Developer** specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. I enjoy transforming ideas into high-quality, production-ready applications while following modern development practices and clean coding principles.
+
+### What I Do
+
+* ⚡ Develop scalable full-stack web applications
+* 🎨 Build modern, responsive, and accessible user interfaces
+* 🔗 Design and integrate RESTful APIs
+* 🛠 Create efficient backend architectures
+* 📈 Optimize application performance and user experience
+* 🚀 Deploy and maintain cloud-based applications
 
 ---
 
-## Tech Stack
+## 🌐 Portfolio & Contact
 
-### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="32" />
+📌 **Portfolio:** https://jolly-bavarois-ca241f.netlify.app/
+
+📧 **Email:** [dinesh.lakshumanan@gmail.com](mailto:dinesh.lakshumanan@gmail.com)
+
+💼 **Open to:** Full Stack Developer | MERN Stack Developer | React Developer Opportunities
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,vite" />
 </p>
 
-### Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32" />
+**Technologies:**
+
+* React.js
+* Next.js
+* JavaScript (ES6+)
+* TypeScript
+* Redux Toolkit
+* Tailwind CSS
+* Bootstrap
+* HTML5 & CSS3
+* Responsive Design
+
+---
+
+### Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
+
+**Technologies:**
+
+* Node.js
+* Express.js
+* REST API Development
+* Authentication & Authorization
+* JWT
+* Middleware Architecture
+
+---
 
 ### Database
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32" />
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
+
+**Technologies:**
+
+* MongoDB
+* Mongoose
+* MySQL
+* Database Design
+* Query Optimization
+
+---
 
 ### Tools & Platforms
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="32" />
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="32" />
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,render,firebase" />
 </p>
 
----
+**Tools:**
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=dineshlakshmanan2001&show_icons=true&theme=react" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshlakshmanan2001&layout=compact&theme=react" />
-
-<img src="https://streak-stats.demolab.com?user=dineshlakshmanan2001&theme=react" />
-
----
-
-## Current Focus
-
-- Developing MERN stack applications
-- Writing clean, maintainable code
-- Improving backend performance and API design
-- Enhancing problem-solving skills
+* Git & GitHub
+* VS Code
+* Postman
+* Netlify
+* Vercel
+* Render
+* Firebase
 
 ---
 
-⭐ If you find my work useful, consider starring my repositories.
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+* Building scalable MERN applications
+* Learning advanced system design concepts
+* Improving API performance and security
+* Exploring Next.js and modern React patterns
+* Writing clean, maintainable, and testable code
+
+---
+
+## 📈 Professional Goals
+
+* Contribute to impactful real-world products
+* Master scalable backend architecture
+* Strengthen cloud deployment expertise
+* Collaborate with high-performing development teams
+* Continuously improve software engineering practices
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+* Full Stack Development
+* React & Node.js Projects
+* Open Source Contributions
+* Software Engineering Opportunities
+* Modern Web Technologies
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
